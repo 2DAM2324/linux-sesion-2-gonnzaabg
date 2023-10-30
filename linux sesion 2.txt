@@ -1,0 +1,6 @@
+Ejercicio 1. 
+-chmod o+x prueba
+-chmod g+r chmod g+x
+-chmod g-r chmod o-r
+-chmod u+x chmod o+r
+-chmod g+x e*
