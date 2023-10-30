@@ -4,3 +4,26 @@ Ejercicio 1.
 -chmod g-r chmod o-r
 -chmod u+x chmod o+r
 -chmod g+x e*
+
+Ejercicio2.
+-ls prueba 
+
+-tail -2 ej31 <ej32
+
+-cat ej31 >ej32
+
+Ejercicio3.
+- ls .. | tail -6 >prueba
+
+-wc prueba -m e*
+
+Ejercicio4.
+a)man chmod | tail -17 >ejercicio1
+
+b)pwd >ejercicio1
+
+c)(who ; ls) >ejercicio3
+
+d)wc ejercicio1 >ejercicio3
+
+e)chmod g-r,u+x,g+x,o+x ejercicio1 ejercicio3
